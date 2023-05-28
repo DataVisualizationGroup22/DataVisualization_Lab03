@@ -1,6 +1,6 @@
 ## VNUHCM - University of Science | CSC10108 – TRỰC QUAN HÓA DỮ LIỆU
 
-### LAB-03:
+### LAB-03: Ứng dụng và công cụ trực quan hóa dữ liệu
 
 #### Group 22
 
