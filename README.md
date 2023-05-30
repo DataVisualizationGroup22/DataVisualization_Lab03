@@ -2,7 +2,7 @@
 
 ### LAB-03: Ứng dụng và công cụ trực quan hóa dữ liệu
 
-#### Group 22
+#### Member | Group 22
 
 20120128 - Nguyễn Thị Cẩm Lai (Nhóm trưởng)
 
